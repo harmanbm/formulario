@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="transform.xsl"?>
 
-<!-- !DOCTYPE questions SYSTEM "preguntas.dtd"!-->
+<!-- !DOCTYPE questions SYSTEM "quiz.dtd"!-->
 <questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation='preguntas.xsd'>
 	<question id="quest001">
 		<type>text</type>
