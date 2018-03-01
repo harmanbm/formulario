@@ -2,22 +2,22 @@
 <?xml-stylesheet type="text/xsl" href="transform.xsl"?>
 
 <!-- !DOCTYPE questions SYSTEM "quiz.dtd"!-->
-<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation='preguntas.xsd'>
+<questions>
 	<question id="quest001">
 		<type>text</type>
-			<title>¿Qué es aquello que todo el mundo toma pero que nadie se lleva?</title>
+			<title>1> ¿Qué es aquello que todo el mundo toma pero que nadie se lleva?</title>
 				<answer>sol</answer>
 	</question>
 	
 <question id="quest002">
 		<type>text</type>
-			<title>¿Qué es lo que todo el mundo hace al despertar?</title>
+			<title>2> ¿Qué es lo que todo el mundo hace al despertar?</title>
 				<answer>abrir los ojos</answer>
 	</question>
 	
 <question id="quest003">
 	<type>select</type>
-		<title>¿Cuál es el número que si le quitas la mitad, es 0?</title>
+		<title>3> ¿Cuál es el número que si le quitas la mitad, es 0?</title>
 			<option>1</option>
 			<option>5</option> 
 			<option>8</option>
@@ -26,7 +26,7 @@
 	
 <question id="quest004">
 	<type>select</type>
-		<title>La cosa que es completamente tuyo pero todos los demás lo usan…</title>
+		<title>4> La cosa que es completamente tuyo pero todos los demás lo usan…</title>
 			<option>Coche</option>
 			<option>Casa</option> 
 			<option>Tu nombre</option>
@@ -35,7 +35,7 @@
  
  <question id="quest005">
 	<type>select multiple</type>
-		<title> ¿Cuántos meses del año tienen 28 días?</title>
+		<title>5> ¿Cuántos meses del año tienen 28 días?</title>
 			<option>Febrero</option>
 			<option>Todos</option> 
 			<option>El segundo mes</option> 
@@ -45,7 +45,7 @@
  </question>
  <question id="quest006">
 	<type>select multiple</type>
-		<title>¿Cuales de los siguientes son colores?</title>
+		<title>6> ¿Cuales de los siguientes son colores?</title>
 			<option>naranja</option>
 			<option>fresa</option> 
 			<option>rojo</option> 
@@ -56,7 +56,7 @@
  
  <question id="quest007">
 	<type>radio</type>
-		<title>La palabra París comienza con "p" y termina con "t", ¿cierto o falso?</title>
+		<title>7> La palabra París comienza con "p" y termina con "t", ¿cierto o falso?</title>
 			<option>Falso</option> 
 			<option>Cierto</option>
 			<option>Ni idea</option>
@@ -64,7 +64,7 @@
  </question>
  <question id="quest008">
 	<type>radio</type>
-		<title>¿Cúal es una pregunta a la que nadie podría contestar de forma afirmativa? </title>
+		<title>8> ¿Cúal es una pregunta a la que nadie podría contestar de forma afirmativa? </title>
 			<option>Has llegado ya?</option>
 			<option>Como te llamas?</option> 
 			<option>¿Estás dormido?</option> 
@@ -74,7 +74,7 @@
  
  <question id="quest009">
 	<type>checkbox</type>
-		<title>Durante un día ¿cuántas veces el minutero y el segundero de un reloj forman una línea recta?</title>
+		<title>9> Durante un día ¿cuántas veces el minutero y el segundero de un reloj forman una línea recta?</title>
 			<option>44</option>
 			<option>33</option> 
 			<option>Ninguna</option> 
@@ -83,7 +83,7 @@
  </question>
  <question id="quest010">
 	<type>checkbox</type>
-		<title>Si una familia tiene 2 hijas, 2 madres, 1 nieta, y 1 abuela. ¿Cuántos miembros hay en la familia?</title>
+		<title>10> Si una familia tiene 2 hijas, 2 madres, 1 nieta, y 1 abuela. ¿Cuántos miembros hay en la familia?</title>
 			<option>6</option>
 			<option>5</option> 
 			<option>3</option> 
