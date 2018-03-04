@@ -7,7 +7,8 @@ He usado lenguajes css, html y javascript para hacer el proyecto de formulario.
 
 He mirado ejemplo del profesor y también he visto códigos en la pagina de https://www.w3schools.com para completar el proyecto.
 
-Hay 4 paginas HTML: inicio.html         -> Donde se explica sobre el examen y como acceder a la pagina de instrucciones.
+    Hay:
+    4 paginas HTML: inicio.html         -> Donde se explica sobre el examen y como acceder a la pagina de instrucciones.
                     instrucciones.html  -> Se explica brevemente los tipos y también explica como responder.
                     examen.html         -> Aquí se muestra todas las preguntas del fichero xml.
                     answer.html         -> En esta pagina están todas las respuestas correctas.
