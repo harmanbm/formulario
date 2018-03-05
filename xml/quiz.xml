@@ -40,8 +40,8 @@
 			<option>Febrero</option> 
 			<option>12 meses</option> 
 			<option>El segundo mes</option>
-	<answer>0</answer>
-	<answer>2</answer>
+	<answer>1</answer>
+	<answer>3</answer>
  </question>
  <question id="quest006">
 	<type>select multiple</type>
@@ -50,8 +50,8 @@
 			<option>naranja</option> 
 			<option>manzana</option> 
 			<option>rojo</option>
-	<answer>1</answer>
-	<answer>3</answer>
+	<answer>2</answer>
+	<answer>4</answer>
  </question>
  
  <question id="quest007">
