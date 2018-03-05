@@ -1,6 +1,5 @@
 # formulario
-Aquí puedes probar el Formulario:https://rawgit.com/harmanbm/formulario/master/inicio.html
-minimify:https://rawgit.com/harmanbm/formulario/minimified/inicio.html
+Aquí puedes probar el Formulario(minimify):https://rawgit.com/harmanbm/formulario/minimified/inicio.html
 
 
 ## Descripción del proyecto
