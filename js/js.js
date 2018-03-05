@@ -40,7 +40,7 @@ window.onload = function(){
 			gestionarXml(this);
 		}
 	};
-	xhttp.open("GET", "https://rawgit.com/harmanbm/formulario/master/xml/quiz.xml", true);
+	xhttp.open("GET", "https://rawgit.com/harmanbm/quiz.xml", true);
  	xhttp.send();
 
 	//no usar el control en las preguntas de multiple select
