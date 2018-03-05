@@ -12,6 +12,7 @@ He mirado ejemplo del profesor y también he visto códigos en la pagina de http
                     instrucciones.html  -> Se explica brevemente los tipos y también explica como responder.
                     examen.html         -> Aquí se muestra todas las preguntas del fichero xml.
                     answer.html         -> En esta pagina están todas las respuestas correctas.
+                                           (Solo se mostrará después de haber realizado el examen.)
                     
     1 fichero javascript: js.js
     
